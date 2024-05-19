@@ -22,4 +22,5 @@
 
 # ❗안내
 이 레포지토리는 프로토타입만 제공합니다.  
-실제로 제공되는 서비스가 아닙니다.
+실제로 제공되는 서비스가 아닙니다.  
+`Copyright ⓒ 2024. Dongmin Lee. All rights reserved.`
